@@ -1,4 +1,4 @@
--------outro codigo------------
+
 # pag -> Number of pages
 # stotal -> total time
 
