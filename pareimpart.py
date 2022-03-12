@@ -1,5 +1,5 @@
-num = int(input("Digite o numero inteiro: "))
+num = int(input("Type a whole number: "))
 if num%2==0: 
-     print ("Numero par!")
+     print ("Even Number!")
 else:
-    print ("Numero impar!")
+    print ("Odd Number!")
